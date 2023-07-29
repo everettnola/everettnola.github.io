@@ -1,1 +1,2 @@
-window.location.href='http://www.baidu.com'
+window.location.href='https://share.weiyun.com/M9Rcp3rA
+'
