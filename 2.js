@@ -1,1 +1,1 @@
-window.location.href='https://aiqiyi.com'
+window.location.href='https://share.weiyun.com/M9Rcp3rA'
