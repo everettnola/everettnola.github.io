@@ -1,1 +1,1 @@
-window.location.href='https://share.weiyun.com/M9Rcp3rA'
+window.location.href='https://docs.qingque.cn/d/home/eZQBjMfyLQtirfhZtSYXf5zpi?identityId=20qxNWhZ5z2'
