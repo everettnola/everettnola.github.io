@@ -1,1 +1,1 @@
-window.location.href='https://docs.qingque.cn/d/home/eZQDfo6u3iGvIdyeY60BakklZ?identityId=23NQnzLBkl1'
+window.location.href='https://docs.qingque.cn/d/home/eZQCbDmvwNgEVA-QjrvwEHtZv?identityId=23NVTRD5lf2'
