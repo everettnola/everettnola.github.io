@@ -1,1 +1,1 @@
-window.location.href='https://share.weiyun.com/npxoSZxU'
+window.location.href='https://share.weiyun.com/YPGiSFvq'
